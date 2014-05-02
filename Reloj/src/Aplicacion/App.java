@@ -17,6 +17,8 @@ public class App {
 	}
 	
 	public static void main(String[] args) {
+		
+		//mostrar el reloj
 		new App();
 	}
 
